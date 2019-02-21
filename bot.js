@@ -103,7 +103,7 @@ const x5bz4 = [
    '*** مريم : يا ايها ا??مخادع اين انت ***',
    '*** مريم : اعلم انك هنا في المنزل ***',
    '*** مريم : ماذا تريد ان تسمع ***',
-   '*** مريم : اضغط على الرابط اهداء مني لك | https://www.youtube.com/watch?v=hvSiuQccmtg ***',
+   '*** مريم : اضغط على الرابط اهداء مني لك | https://www.youtube.com/channel/UCgnpGUgHs94bMDg5SK75zlw ***',
    '*** احد ما خرج من المنزل ***',
    '*** انتظر الجزء الثاني عندما يوصل البوت 100 سيرفر , ساعدنا في نشر البوت وادخل هذا السيرفر https://discord.gg/ZnPDHaA ***'
 ]
@@ -122,7 +122,7 @@ const x5bz4 = [
 
 
 
-var prefix = "-";
+var prefix = "j";
 
 client.on('message', message => {
 if (message.content === "-help") {
